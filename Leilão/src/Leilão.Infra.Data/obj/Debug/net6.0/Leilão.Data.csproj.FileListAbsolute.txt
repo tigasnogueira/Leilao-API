@@ -1,0 +1,5 @@
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.csproj.AssemblyReference.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.AssemblyInfoInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.AssemblyInfo.cs
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.csproj.CoreCompileInputs.cache

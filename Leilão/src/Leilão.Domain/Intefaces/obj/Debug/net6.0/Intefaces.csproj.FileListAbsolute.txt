@@ -1,0 +1,15 @@
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.csproj.AssemblyReference.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.AssemblyInfoInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.AssemblyInfo.cs
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.csproj.CoreCompileInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\bin\Debug\net6.0\Intefaces.deps.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\bin\Debug\net6.0\Intefaces.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\bin\Debug\net6.0\Intefaces.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\bin\Debug\net6.0\Entity.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\bin\Debug\net6.0\Entity.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.csproj.CopyComplete
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\refint\Intefaces.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\Intefaces.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\Intefaces\obj\Debug\net6.0\ref\Intefaces.dll

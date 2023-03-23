@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eppz2ZJRx9J2ROvT8TEFzp5KdFG2yXXMX02bcSzPyO9ZTiXwQpTAXeVCQEMug8JYXXuMkBRuHiecnCSnkRVVUQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Leilão.LanceApi\\Leilão.LanceApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

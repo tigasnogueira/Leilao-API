@@ -1,0 +1,11 @@
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Leilao.ClienteApi.exe
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\appsettings.Development.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\appsettings.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Leilao.ClienteApi.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Leilao.ClienteApi.deps.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Leilao.ClienteApi.runtimeconfig.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Leilao.ClienteApi.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Service\Services\Leilao.ClienteApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,9 @@
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.csproj.AssemblyReference.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.AssemblyInfoInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.AssemblyInfo.cs
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.csproj.CoreCompileInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.MvcApplicationPartsAssemblyInfo.cs
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.RazorAssemblyInfo.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Leilao.Mvc\obj\Debug\net6.0\Leilao.Mvc.RazorAssemblyInfo.cs

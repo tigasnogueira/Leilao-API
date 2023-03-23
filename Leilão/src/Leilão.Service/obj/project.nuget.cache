@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2bRxc5ds+5RMzZrwtTebeavQ0N2b28OFJ132/G+TP44j+zo6XHLoZUKZ2GQa810JVVydkXy+fFn78y3S5KqRg==",
+  "success": false,
+  "projectFilePath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

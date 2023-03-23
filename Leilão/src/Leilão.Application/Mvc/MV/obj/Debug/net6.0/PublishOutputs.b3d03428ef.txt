@@ -1,0 +1,14 @@
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\MV.exe
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\appsettings.Development.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\appsettings.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\MV.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\MV.deps.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\MV.runtimeconfig.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\MV.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Logging.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Protocols.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\Microsoft.IdentityModel.Tokens.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Application\Mvc\MV\bin\Debug\net6.0\publish\System.IdentityModel.Tokens.Jwt.dll

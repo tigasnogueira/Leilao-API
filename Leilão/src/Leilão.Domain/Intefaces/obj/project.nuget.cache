@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1iLrv6OYVEz15YZche386S79PIZi08oWPMawSV3YZcB6Lac7u6IKxpDi/UeYbCM2Se1ysH1DjbACsguorTe+g==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Intefaces\\Intefaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

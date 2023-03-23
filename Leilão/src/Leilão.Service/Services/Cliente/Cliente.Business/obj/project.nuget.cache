@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "olmAxzor2Tt3sn7eaLQbT2RQSRGcPFGCoswNVvc5jYAHdNMQkq/jH4em6oIySXaY5VKNh/eCaBlErsFW+0Fh3w==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Cliente\\Cliente.Business\\Leilao.ClienteBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

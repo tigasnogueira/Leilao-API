@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FluentValidation/11.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entity.dll": {}
+        }
+      },
+      "Intefaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entity": "1.0.0",
+          "FluentValidation": "11.4.0"
+        },
+        "compile": {
+          "bin/placeholder/Intefaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Intefaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.4.0": {
+      "sha512": "WZJyrNf4suiaI6avVG32W9kmBLC3+V5rDTcLeRJjeU4tDmTyDIOz1459DzCKppXs34YpZg9rCUzDY3M4XxG7Ug==",
+      "type": "package",
+      "path": "fluentvalidation/11.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.4.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "Entity/1.0.0": {
+      "type": "project",
+      "path": "../../../../../ClassLibrary1/Entity.csproj",
+      "msbuildProject": "../../../../../ClassLibrary1/Entity.csproj"
+    },
+    "Intefaces/1.0.0": {
+      "type": "project",
+      "path": "../../../../Leilão.Domain/Intefaces/Intefaces.csproj",
+      "msbuildProject": "../../../../Leilão.Domain/Intefaces/Intefaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Intefaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Cliente\\Cliente.Business\\Leilao.ClienteBusiness.csproj",
+      "projectName": "Leilao.ClienteBusiness",
+      "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Cliente\\Cliente.Business\\Leilao.ClienteBusiness.csproj",
+      "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
+      "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Cliente\\Cliente.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Intefaces\\Intefaces.csproj": {
+              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Intefaces\\Intefaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

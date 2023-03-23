@@ -1,0 +1,12 @@
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\bin\Debug\net6.0\Entity.deps.json
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\bin\Debug\net6.0\Entity.dll
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\bin\Debug\net6.0\Entity.pdb
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\Entity.dll
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\refint\Entity.dll
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\Entity.pdb
+E:\Projetos\ApiLeilao\Leilão\ClassLibrary1\obj\Debug\net6.0\ref\Entity.dll
